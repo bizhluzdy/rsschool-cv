@@ -55,7 +55,7 @@ _Today I firmly decided that I want to professionally engage in web development,
 * Branch of the BNTU «Minsk State Mechanical-Engineering College»
 * Courses:
     * Code-basic - (HTML5,CSS3,JS)
-    * RS-SCHOOL - Stage 1 (JavaScript/Front-end)
+    * **RS-SCHOOL** - Stage 1 (JavaScript/Front-end)
     
 ----
 
